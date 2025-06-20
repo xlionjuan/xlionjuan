@@ -6,7 +6,7 @@ I'm intrested in networking, cyber security, system management/maintenance, serv
 
 I'm mainly contribute on verious software's translation that on GitHub, various Weblate or Crowdin, maybe some documentation.
 
-Proud [Framework Laptop 13](https://frame.work/tw/en/laptop13) user and running [Bazzite DX](https://dev.bazzite.gg/) ([My custom image](https://github.com/xlionjuan/fw13-bootc-sys)), I'm fall in love with [Bootc](https://github.com/bootc-dev/bootc) based systems.
+Proud [Framework Laptop 13](https://frame.work/laptop13) user and running [Bazzite DX](https://dev.bazzite.gg/) ([My custom image](https://github.com/xlionjuan/fw13-bootc-sys)), I'm fall in love with [Bootc](https://github.com/bootc-dev/bootc) based systems.
 
 I'm maintaining RustDesk's [APT](https://github.com/xlionjuan/rustdesk-apt-repo-latest) and [RPM](https://github.com/xlionjuan/rustdesk-rpm-repo) repos for easier autoupdates (Nightly also included!!).
 
